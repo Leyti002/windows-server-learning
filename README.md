@@ -114,5 +114,4 @@ Ce projet s’inscrit dans mon objectif de devenir :
 ## 📌 Auteur
 
 Oumar Leyti  
-Étudiant en informatique appliquée  
-Passionné par la cybersécurité
+
